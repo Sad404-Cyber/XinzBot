@@ -1,6 +1,6 @@
 exports.menu = (prefix, i) => {
-    return `*Xinz Bot*
-Created by Xinz Team
+    return `*Abdillah BotZ*
+Created by Abdillah Team
 
 *INFO*
 ${i.free} cekprefix
